@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,google
+  - DOMAIN-KEYWORD,firebase
   - DOMAIN-KEYWORD,gmail
   - DOMAIN-KEYWORD,youtube
   - DOMAIN-KEYWORD,facebook
