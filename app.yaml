@@ -21,3 +21,6 @@
   - DOMAIN-SUFFIX,signal.group
   - DOMAIN-SUFFIX,signalcaptchas.org
 
+  #netflix
+  - DOMAIN-SUFFIX,nflxvideo.net
+
