@@ -3,8 +3,11 @@ host-suffix, emuci.top, direct
 host, spdb.com.cn, direct
 host-suffix, spdb.com.cn, direct
 
+
 # xxx
 host-suffix, pronhub.com, proxy
+host-suffix, okexsupport, proxy
+host-suffix, picooc-int.com, proxy
 
 # 社交软件
 host-suffix,whatsapp.com,proxy
@@ -51,3 +54,4 @@ host-suffix,mwcname.com,direct
 host-suffix,apple.com,direct
 host-suffix,apple-cloudkit.com,direct
 host-suffix,apple-mapkit.com,direct
+host-suffix,icloud-content.com,direct
