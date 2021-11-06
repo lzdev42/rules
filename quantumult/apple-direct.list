@@ -3,7 +3,7 @@ host,safebrowsing.googleapis.com,direct
 user-agent,com.apple.appstored*,direct
 user-agent,AppStore*,direct
 host-suffix,mzstatic.com,direct
-host-suffix,itunes.apple.com,direct
+# host-suffix,itunes.apple.com,direct
 host-suffix,icloud.com,direct
 host-suffix,icloud-content.com,direct
 user-agent,cloudd*,direct
