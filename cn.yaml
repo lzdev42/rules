@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-SUFFIX,emuci.top
+  - DOMAIN-SUFFIX,ruanmei.com
+  - DOMAIN-SUFFIX,ithome.com
   - DOMAIN-SUFFIX,adobe.com
   - DOMAIN-SUFFIX,bing.com
   - DOMAIN-SUFFIX,sony.com
