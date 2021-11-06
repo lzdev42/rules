@@ -1,12 +1,10 @@
 payload:
-  - DOMAIN,developer.apple.com
-  - DOMAIN-SUFFIX,digicert.com
-  - PROCESS-NAME,trustd,Proxy
-  # - DOMAIN-SUFFIX,apple-dns.net
-  # - DOMAIN,testflight.apple.com
-  # - DOMAIN,sandbox.itunes.apple.com
-  # - DOMAIN-SUFFIX,itunes.apple.com
-  # - DOMAIN-SUFFIX,apps.apple.com
-  - DOMAIN-SUFFIX,blobstore.apple.com
-  # - DOMAIN,cvws.icloud-content.com
+  #- DOMAIN,su-applak.itunes-apple.com.akadns.net
+  # - DOMAIN,itunes.apple.com.edgekey.net
+  # - DOMAIN,apps-mzstatic-cdn.itunes-apple.com.akadns.net
+  # - DOMAIN,mediaservices.cdn-apple.com
+  - DOMAIN-SUFFIX,videos.apple.com
+  #- DOMAIN-SUFFIX,uts-api.itunes.apple.com
   - DOMAIN-SUFFIX,tv.apple.com
+  #- DOMAIN,play-edge.itunes.apple.com
+  #- DOMAIN,no-edge.itunes.apple.com
