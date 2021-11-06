@@ -1,0 +1,22 @@
+host, emuci.top, direct
+host-suffix, emuci.top, direct
+host, spdb.com.cn, direct
+host-suffix, spdb.com.cn, direct
+
+
+# xxx
+host-suffix, pronhub.com, proxy
+host-suffix, okexsupport, proxy
+host-suffix, picooc-int.com, proxy
+
+# 社交软件
+host-suffix,whatsapp.com,proxy
+host-suffix,whatsapp.net,proxy
+host-suffix,whatsapp.biz,proxy
+host,graph.facebook.com,proxy
+host-suffix,bintray.com,proxy
+
+host-suffix,signal.org,proxy
+host-suffix,whispersystems.org,proxy
+host-suffix,signal.group,proxy
+host-suffix,signalcaptchas.org,proxy
