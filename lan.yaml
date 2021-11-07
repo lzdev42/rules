@@ -2,9 +2,7 @@ payload:
   - DOMAIN,injections.adguard.org
   - DOMAIN,local.adguard.org
   - DOMAIN-SUFFIX,local
-  - PROCESS-NAME,downloadmaster
-  - PROCESS-NAME,downloadmaster2
-  - PROCESS-NAME,Transmission
+  - PROCESS-NAME,dm2_transmission-daemon
   - PROCESS-NAME,transmission
   - IP-CIDR,192.168.0.0/16
   - IP-CIDR,10.0.0.0/8
