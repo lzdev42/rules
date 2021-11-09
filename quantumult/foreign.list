@@ -14,6 +14,8 @@ host-keyword,blogspot,proxy
 host-suffix,youtu.be,proxy
 
 ## 常见国外域名列表
+host-suffix,apkmirror.com,proxy
+host-suffix,pornhub.com,proxy
 host-suffix,9to5mac.com,proxy
 host-suffix,abpchina.org,proxy
 host-suffix,adblockplus.org,proxy

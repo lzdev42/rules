@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
+  - DOMAIN-SUFFIX,apkmirror.com
   - DOMAIN-SUFFIX,pornhub.com
   - DOMAIN-KEYWORD,amazon
   - DOMAIN-KEYWORD,google
