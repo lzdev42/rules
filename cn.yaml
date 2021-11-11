@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-SUFFIX,emuci.top
+  - DOMAIN-SUFFIX,snssdk.com
   - DOMAIN-SUFFIX,nanhuaizi.com
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,ruanmei.com
