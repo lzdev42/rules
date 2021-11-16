@@ -9,3 +9,4 @@ payload:
   #- DOMAIN,play-edge.itunes.apple.com
   #- DOMAIN,no-edge.itunes.apple.com
   - DOMAIN-SUFFIX,itunes.apple.com
+  - DOMAIN,mediaservices.cdn-apple.com
