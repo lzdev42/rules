@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-SUFFIX,opendns.com
+  - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,googleadservices.com
   - DOMAIN-SUFFIX,github.com
   - DOMAIN-SUFFIX,githubusercontent.com
