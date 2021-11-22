@@ -3,6 +3,8 @@ user-agent,WeChat*,direct
 
 host-suffix,cn,direct
 host-keyword,-cn,direct
+host-suffix,doh.pub,direct
+host-suffix,alidns.com,direct
 host-suffix,hndutyfree.com.cn,direct
 host-suffix,emuci.top,direct
 host-suffix,snssdk.com,direct
