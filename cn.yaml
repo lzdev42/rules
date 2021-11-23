@@ -1,6 +1,8 @@
 payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
+  - DOMAIN-SUFFIX,amemv.com
+  - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,doh.pub
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-SUFFIX,pglstatp.com

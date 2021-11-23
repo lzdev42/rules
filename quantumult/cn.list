@@ -3,14 +3,22 @@ user-agent,WeChat*,direct
 
 host-suffix,cn,direct
 host-keyword,-cn,direct
-host-suffix,doh.pub,direct
-host-suffix,alidns.com,direct
-host-suffix,hndutyfree.com.cn,direct
-host-suffix,emuci.top,direct
-host-suffix,snssdk.com,direct
-host-suffix, nanhuaizi.com, direct
-host-suffix,ruanmei.com,direct
-host-suffix,ithome.com,direct
+host-suffix,doh.pub
+host-suffixjsdelivr.net
+host-suffix,pglstatp.com
+host-suffix,pglstatp-toutiao.com
+host-suffix,icplishi.com
+host-suffix,dxycdn.com
+host-suffix,ottcn.com
+host-suffix,alidns.com
+host-suffix,hndutyfree.com.cn
+host-suffix,emuci.top
+host-suffix,nanyangpt.com
+host-suffix,snssdk.com
+host-suffix,nanhuaizi.com
+host-suffix,asus.com
+host-suffix,ruanmei.com
+host-suffix,ithome.com
 host-suffix,adobe.com,direct
 host-suffix,bing.com,direct
 host-suffix,sony.com,direct
