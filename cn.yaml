@@ -3,6 +3,17 @@ payload:
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,sina
+  - DOMAIN-KEYWORD,chinaz
+  - DOMAIN-SUFFIX,rdnsdb.com
+  - DOMAIN-SUFFIX,ipchaxun.com
+  - DOMAIN-SUFFIX,fly2cn.top
+  - DOMAIN-SUFFIX,ip138.com
+  - DOMAIN-SUFFIX,akamaihd.net
+  - DOMAIN-SUFFIX,windows.com
+  - DOMAIN-SUFFIX,myapp.com
+  - DOMAIN-SUFFIX,yuewen.com
+  - DOMAIN-SUFFIX,getui.com
+  - DOMAIN-SUFFIX,tamaegis.com
   - DOMAIN-SUFFIX,amemv.com
   - DOMAIN-SUFFIX,zjcdn.com
   - DOMAIN-SUFFIX,weibocdn.com
