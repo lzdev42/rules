@@ -4,6 +4,7 @@ payload:
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,sina
   - DOMAIN-KEYWORD,chinaz
+  - DOMAIN-SUFFIX,wifi8.com
   - DOMAIN-SUFFIX,rdnsdb.com
   - DOMAIN-SUFFIX,ipchaxun.com
   - DOMAIN-SUFFIX,fly2cn.top

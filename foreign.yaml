@@ -1,4 +1,6 @@
 payload:
+  - DOMAIN-KEYWORD,porn
+  - DOMAIN-KEYWORD,avgle
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-SUFFIX,googleadservices.com

@@ -1,0 +1,10 @@
+payload:
+  - DOMAIN-SUFFIX,cn
+  - DOMAIN-KEYWORD,-cn
+  - DOMAIN-KEYWORD,weibo
+  - DOMAIN-KEYWORD,sina
+  - DOMAIN-KEYWORD,chinaz
+  - DOMAIN-SUFFIX,pglstatp.com,DIRECT
+  - DOMAIN-SUFFIX,fly2cn.top,DIRECT
+  - DOMAIN-SUFFIX,asus.com,DIRECT
+  - DOMAIN-SUFFIX,emuci.top,DIRECT
