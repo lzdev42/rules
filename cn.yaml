@@ -2,6 +2,9 @@ payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
   - DOMAIN-SUFFIX,doh.pub
+  - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-SUFFIX,dxycdn.com
+  - DOMAIN-SUFFIX,ottcn.com
   - DOMAIN-SUFFIX,alidns.com
   - DOMAIN-SUFFIX,hndutyfree.com.cn
   - DOMAIN-SUFFIX,emuci.top
