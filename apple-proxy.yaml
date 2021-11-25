@@ -1,12 +1,7 @@
 payload:
-  #- DOMAIN,su-applak.itunes-apple.com.akadns.net
-  # - DOMAIN,itunes.apple.com.edgekey.net
-  # - DOMAIN,apps-mzstatic-cdn.itunes-apple.com.akadns.net
-  # - DOMAIN,mediaservices.cdn-apple.com
+
   - DOMAIN-SUFFIX,videos.apple.com
-  #- DOMAIN-SUFFIX,uts-api.itunes.apple.com
   - DOMAIN-SUFFIX,tv.apple.com
-  #- DOMAIN,play-edge.itunes.apple.com
-  #- DOMAIN,no-edge.itunes.apple.com
   - DOMAIN-SUFFIX,itunes.apple.com
- 
+  - DOMAIN-SUFFIX,developer.apple.com
+  - DOMAIN-SUFFIX,idmsa.apple.com
