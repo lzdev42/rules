@@ -5,3 +5,4 @@ payload:
   - DOMAIN-SUFFIX,itunes.apple.com
   - DOMAIN-SUFFIX,developer.apple.com
   - DOMAIN-SUFFIX,idmsa.apple.com
+  - DOMAIN-SUFFIX,appstoreconnect.apple.com
