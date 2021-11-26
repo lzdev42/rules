@@ -12,6 +12,8 @@ host-keyword,dropbox,proxy
 host-suffix,twimg.com,proxy
 host-keyword,blogspot,proxy
 host-suffix,youtu.be,proxy
+host-suffix,dns.adguard.com,proxy
+host-suffix,doh.opendns.com,proxy
 
 ## 常见国外域名列表
 host-suffix,apkmirror.com,proxy
