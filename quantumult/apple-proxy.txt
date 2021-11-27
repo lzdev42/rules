@@ -1,6 +1,5 @@
 host,developer.apple.com,proxy
 host-suffix,digicert.com,proxy
-user-agent,com.apple.trustd*,proxy
 host-suffix,blobstore.apple.com,proxy
 host,cvws.icloud-content.com,proxy
 host-suffix,itunes.apple.com,proxy
