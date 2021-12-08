@@ -4,7 +4,8 @@ payload:
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,sina
   - DOMAIN-KEYWORD,chinaz
-  - DOMAIN-SUFFIX,pglstatp.com,DIRECT
-  - DOMAIN-SUFFIX,fly2cn.top,DIRECT
-  - DOMAIN-SUFFIX,asus.com,DIRECT
-  - DOMAIN-SUFFIX,emuci.top,DIRECT
+  - DOMAIN-SUFFIX,pglstatp.com
+  - DOMAIN-SUFFIX,fly2cn.top
+  - DOMAIN-SUFFIX,asus.com
+  - DOMAIN-SUFFIX,emuci.top
+  - DOMAIN-SUFFIX,steampipe.akamaized.net
