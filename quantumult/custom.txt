@@ -2,6 +2,7 @@ host, emuci.top, direct
 host-suffix, emuci.top, direct
 host, spdb.com.cn, direct
 host-suffix, spdb.com.cn, direct
+host-suffix, xvideos.com, proxy
 
 
 # xxx
