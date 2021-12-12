@@ -5,6 +5,7 @@ payload:
   - DOMAIN-KEYWORD,sina
   - DOMAIN-KEYWORD,chinaz
   - DOMAIN-SUFFIX,pglstatp.com
+  - DOMAIN-SUFFIX,jd.com
   - DOMAIN-SUFFIX,fly2cn.top
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,emuci.top
