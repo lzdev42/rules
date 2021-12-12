@@ -5,7 +5,7 @@ host-suffix, spdb.com.cn, direct
 host-suffix, xvideos.com, proxy
 
 host-suffix, jd.com, direct
-
+host-keyword, 360hu, direct
 # xxx
 host-suffix, pronhub.com, proxy
 host-suffix, okexsupport, proxy
