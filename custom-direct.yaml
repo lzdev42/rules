@@ -1,6 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,cn
   - DOMAIN-KEYWORD,-cn
+  - DOMAIN-KEYWORD,jetbrains
   - DOMAIN-KEYWORD,weibo
   - DOMAIN-KEYWORD,sina
   - DOMAIN-KEYWORD,chinaz
