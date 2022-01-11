@@ -4,6 +4,7 @@ host, spdb.com.cn, direct
 host-suffix, spdb.com.cn, direct
 host-suffix, xvideos.com, proxy
 host-suffix, phncdn.com, proxy
+host-keyword, paypal, proxy
 
 host-suffix, jd.com, direct
 host-keyword, 360hu, direct
