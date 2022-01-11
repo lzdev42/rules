@@ -1,3 +1,4 @@
 payload:
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
+  - DOMAIN-KEYWORD,paypal
