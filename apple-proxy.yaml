@@ -8,5 +8,10 @@ payload:
   - DOMAIN-SUFFIX,idmsa.apple.com
   - DOMAIN-SUFFIX,appstoreconnect.apple.com
   # - USER-AGENT,AppleNews*
-  # - USER-AGENT,com.apple.news*
+  - USER-AGENT,com.apple.news*
   - DOMAIN,gspe1-ssl.ls.apple.com
+  - DOMAIN-SUFFIX,ls.apple.com
+  - PROCESS-NAME,News
+  - USER-AGENT,AppleNews*
+  - USER-AGENT,News*
+  - DOMAIN,apple.comscoreresearch.com
