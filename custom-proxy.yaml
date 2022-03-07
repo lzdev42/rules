@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-KEYWORD,paypal
   - DOMAIN,googleapis.cn
+  - DOMAIN-KEYWORD, shazam
