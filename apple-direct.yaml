@@ -18,3 +18,4 @@ payload:
   - DOMAIN-SUFFIX,apple-mapkit.com
   - DOMAIN,mediaservices.cdn-apple.com
   - DOMAIN-SUFFIX,osxapps.itunes.apple.com
+  - DOMAIN, devimages-cdn.apple.com
