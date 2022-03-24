@@ -12,3 +12,4 @@ payload:
   - DOMAIN-SUFFIX,emuci.top
   - DOMAIN-SUFFIX,steampipe.akamaized.net
   - DOMAIN-KEYWORD,jetbrains
+  - DOMAIN-SUFFIX,webex.com
