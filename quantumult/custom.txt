@@ -1,6 +1,7 @@
 host, emuci.top, direct
 host-keyword, shazam, proxy
 host-suffix, emuci.top, direct
+host-suffix, pvp.net, direct
 host, spdb.com.cn, direct
 host-suffix, spdb.com.cn, direct
 host-suffix, xvideos.com, proxy
