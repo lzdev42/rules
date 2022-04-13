@@ -3,34 +3,32 @@ host-keyword, shazam, proxy
 host-suffix, emuci.top, direct
 host-suffix, pvp.net, direct
 host, spdb.com.cn, direct
+host,suffix,pki.goog, proxy
 host-suffix, spdb.com.cn, direct
 host-suffix, xvideos.com, proxy
 host-suffix, phncdn.com, proxy
 host-keyword, paypal, proxy
 host-keyword, reddit, proxy
-
 host-suffix, jpush.cn, direct
 host-suffix, mob.com, direct
-
 host-suffix, t.me, proxy
 host-suffix, t.co, proxy
-
 host,injections.adguard.org,direct
 host,local.adguard.org,direct
-
 host-suffix, jd.com, direct
 host-keyword, 360hu, direct
+
 # xxx
 host-suffix, pronhub.com, proxy
 host-suffix, okexsupport, proxy
 host-suffix, picooc-int.com, proxy
-
 # 社交软件
 host-suffix,whatsapp.com,proxy
 host-suffix,whatsapp.net,proxy
 host-suffix,whatsapp.biz,proxy
 host,graph.facebook.com,proxy
 host-suffix,bintray.com,proxy
+host-suffix, nicegram.app, proxy
 
 host-suffix,signal.org,proxy
 host-suffix,whispersystems.org,proxy
