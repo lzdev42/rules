@@ -3,7 +3,7 @@ host-keyword, shazam, proxy
 host-suffix, emuci.top, direct
 host-suffix, pvp.net, direct
 host, spdb.com.cn, direct
-host-suffix,pki.goog, proxy
+host-suffix, pki.goog, proxy
 host-suffix, spdb.com.cn, direct
 host-suffix, xvideos.com, proxy
 host-suffix, phncdn.com, proxy
