@@ -9,6 +9,15 @@ host-suffix, phncdn.com, proxy
 host-keyword, paypal, proxy
 host-keyword, reddit, proxy
 
+host-suffix, jpush.cn, direct
+host-suffix, mob.com, direct
+
+host-suffix, t.me, proxy
+host-suffix, t.co, proxy
+
+host,injections.adguard.org,direct
+host,local.adguard.org,direct
+
 host-suffix, jd.com, direct
 host-keyword, 360hu, direct
 # xxx
@@ -27,8 +36,7 @@ host-suffix,signal.org,proxy
 host-suffix,whispersystems.org,proxy
 host-suffix,signal.group,proxy
 host-suffix,signalcaptchas.org,proxy
-host-suffix,redd.it,proxy
-host-suffix,reddit,proxy
+host-suffix, redd.it,proxy
 
 # telegram
 host-suffix,telegra.ph,proxy
