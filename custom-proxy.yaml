@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,opendns.com
+  - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
   - DOMAIN-KEYWORD,paypal
   - DOMAIN,googleapis.cn
