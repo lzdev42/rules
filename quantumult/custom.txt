@@ -9,6 +9,7 @@ host-suffix, xvideos.com, proxy
 host-suffix, phncdn.com, proxy
 host-keyword, paypal, proxy
 host-keyword, reddit, proxy
+host-keyword, porn, proxy
 host-suffix, jpush.cn, direct
 host-suffix, mob.com, direct
 host-suffix, t.me, proxy
