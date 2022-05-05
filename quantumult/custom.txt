@@ -1,4 +1,5 @@
 host, emuci.top, direct
+host-suffix, emuci.xyz, direct
 host-keyword, shazam, proxy
 host-suffix, emuci.top, direct
 host-suffix, pvp.net, direct

@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,fly2cn.top
   - DOMAIN-SUFFIX,asus.com
   - DOMAIN-SUFFIX,emuci.top
+  - DOMAIN-SUFFIX,emuci.xyz
   - DOMAIN-SUFFIX,steampipe.akamaized.net
   - DOMAIN-KEYWORD,jetbrains
   - DOMAIN-SUFFIX,webex.com
