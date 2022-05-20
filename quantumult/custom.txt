@@ -1,3 +1,5 @@
+host-keyword, epicgames, proxy
+host-keyword, linkedin, proxy
 host, emuci.top, direct
 host-suffix, emuci.xyz, direct
 host-keyword, shazam, proxy
