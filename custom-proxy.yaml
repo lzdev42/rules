@@ -6,3 +6,4 @@ payload:
   - DOMAIN,googleapis.cn
   - DOMAIN-KEYWORD, shazam
   - DOMAIN-KEYWORD, porn
+  - DOMAIN-SUFFIX,jsdelivr.net

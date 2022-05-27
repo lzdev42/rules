@@ -23,6 +23,7 @@ host,injections.adguard.org,direct
 host,local.adguard.org,direct
 host-suffix, jd.com, direct
 host-keyword, 360hu, direct
+host-suffix, jsdelivr.net, proxy
 
 # xxx
 host-suffix, pronhub.com, proxy

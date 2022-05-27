@@ -4,7 +4,6 @@ user-agent,WeChat*,direct
 host-suffix,cn,direct
 host-keyword,-cn,direct
 host-suffix,doh.pub,direct
-host-suffix,jsdelivr.net,direct
 host-suffix,pglstatp.com,direct
 host-suffix,265.com,direct
 host-suffix,2mdn.net,direct
