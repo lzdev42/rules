@@ -7,3 +7,4 @@ payload:
   - DOMAIN-KEYWORD, shazam
   - DOMAIN-KEYWORD, porn
   - DOMAIN-SUFFIX,jsdelivr.net
+  - DOMAIN-KEYWORD,quora
