@@ -12,5 +12,6 @@ payload:
   - DOMAIN-SUFFIX,emuci.top
   - DOMAIN-SUFFIX,emuci.xyz
   - DOMAIN-SUFFIX,steampipe.akamaized.net
-  - DOMAIN-KEYWORD,jetbrains
+  # - DOMAIN-KEYWORD,jetbrains
+  - DOMAIN-KEYWORD,skype
   - DOMAIN-SUFFIX,webex.com
