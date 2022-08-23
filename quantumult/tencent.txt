@@ -1,3 +1,4 @@
+user-agent,MicroMessenger Client, proxy
 host-suffix,1700.cn, proxy
 host-suffix,17roco.com, proxy
 host-suffix,700chat.com, proxy
