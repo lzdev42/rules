@@ -8,3 +8,6 @@ payload:
   - DOMAIN-KEYWORD, porn
   - DOMAIN-SUFFIX,jsdelivr.net
   - DOMAIN-KEYWORD,quora
+  - DOMAIN-KEYWORD, openai.com
+  - DOMAIN-KEYWORD, ai.com
+  - DOMAIN-KEYWORD, bing.com
