@@ -137,7 +137,7 @@ payload:
   - DOMAIN-SUFFIX,tencent.com
   - DOMAIN-SUFFIX,tenpay.com
   - DOMAIN-SUFFIX,tianyancha.com
-  - DOMAIN-KEYWORD,.tmall.com
+  - DOMAIN-KEYWORD,tmall.com
   - DOMAIN-SUFFIX,tudou.com
   - DOMAIN-SUFFIX,umetrip.com
   - DOMAIN-SUFFIX,upaiyun.com

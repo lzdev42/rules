@@ -1,3 +1,9 @@
+host-keyword,alipay,direct
+host-keyword,tmall,direct
+host-keyword,taobao,direct
+host-keyword,alidns,direct
+host-keyword,qq,direct
+host-keyword,tencent,direct
 host-keyword, epicgames, proxy
 host-keyword, linkedin, proxy
 host, emuci.top, direct
