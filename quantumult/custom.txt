@@ -1,3 +1,4 @@
+host-keyword,vivaldi,proxy
 host-keyword,aliyun,direct
 host-keyword,alipay,direct
 host-keyword,tmall,direct

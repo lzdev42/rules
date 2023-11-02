@@ -1,4 +1,5 @@
 payload:
+  - DOMAIN-KEYWORD,vivaldi
   - DOMAIN-SUFFIX,opendns.com
   - DOMAIN-SUFFIX,brave.com
   - DOMAIN-SUFFIX,cloudflare-dns.com
