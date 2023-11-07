@@ -12,3 +12,4 @@ payload:
   - DOMAIN-KEYWORD, openai.com
   - DOMAIN-KEYWORD, ai.com
   - DOMAIN-KEYWORD, bing.com
+  - DOMAIN-SUFFIX,gstatic.com
