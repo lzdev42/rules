@@ -1,7 +1,7 @@
-host,developer.apple.com,proxy
-host-suffix,digicert.com,proxy
-host-suffix,blobstore.apple.com,proxy
-host,cvws.icloud-content.com,proxy
-host-suffix,itunes.apple.com,proxy
-host-suffix,videos.apple.com,proxy
-host-suffix,tv.apple.com,proxy
+host,developer.apple.com,AppleProxy
+host-suffix,digicert.com,AppleProxy
+host-suffix,blobstore.apple.com,AppleProxy
+host,cvws.icloud-content.com,AppleProxy
+host-suffix,itunes.apple.com,AppleProxy
+host-suffix,videos.apple.com,AppleProxy
+host-suffix,tv.apple.com,AppleProxy

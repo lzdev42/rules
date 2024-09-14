@@ -1,0 +1,16 @@
+host-keyword,aliyun,direct
+host-keyword,alipay,direct
+host-keyword,tmall,direct
+host-keyword,taobao,direct
+host-keyword,alidns,direct
+host-keyword,qq,direct
+host-keyword,tencent,direct
+host-keyword,emuci,direct
+host-suffix,pvp.net,direct
+host,spdb.com.cn,direct
+host-suffix,spdb.com.cn,direct
+host-suffix,jpush.cn,direct
+host-suffix,mob.com,direct
+host,injections.adguard.org,direct
+host-suffix,jd.com,direct
+host-keyword,360hu,direct
