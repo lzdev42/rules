@@ -1,0 +1,43 @@
+# Claude (Anthropic) related domains
+host-suffix,anthropic.com,proxy
+host-suffix,claude.ai,proxy
+
+# Poe related domains
+host-suffix,poe.com,proxy
+host-suffix,quora.com,proxy
+host-suffix,poecdn.net,proxy
+
+# ChatGPT (OpenAI) related domains
+host-suffix,openai.com,proxy
+host-suffix,chat.openai.com,proxy
+host-suffix,challenges.cloudflare.com,proxy
+host-suffix,auth0.openai.com,proxy
+host-suffix,platform.openai.com,proxy
+host-suffix,ai.com,proxy
+
+# Bing related domains
+host-suffix,bing.com,proxy
+host-suffix,bing.net,proxy
+host-suffix,bingapis.com,proxy
+host-suffix,microsoftbing.com,proxy
+host-suffix,ms-bing.com,proxy
+host-suffix,bingads.com,proxy
+host-suffix,bingagencyawards.com,proxy
+host-suffix,bingapistatistics.com,proxy
+host-suffix,bingsandbox.com,proxy
+host-suffix,bingvisualsearch.com,proxy
+host-suffix,bingworld.com,proxy
+
+# Microsoft domains (potentially related to Bing AI)
+host-suffix,microsoft.com,proxy
+host-suffix,microsoftonline.com,proxy
+host-suffix,msftauth.net,proxy
+host-suffix,msauth.net,proxy
+host-suffix,msecnd.net,proxy
+host-suffix,live.com,proxy
+
+# Google Gemini related domains
+host-suffix,gemini.google.com,proxy
+host-suffix,ai.google.dev,proxy
+host-suffix,generativelanguage.googleapis.com,proxy
+host-suffix,apis.google.com,proxy
