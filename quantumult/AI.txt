@@ -1,43 +1,43 @@
 # Claude (Anthropic) related domains
-host-suffix,anthropic.com,proxy
-host-suffix,claude.ai,proxy
+host-suffix,anthropic.com,AI
+host-suffix,claude.ai,AI
 
 # Poe related domains
-host-suffix,poe.com,proxy
-host-suffix,quora.com,proxy
-host-suffix,poecdn.net,proxy
+host-suffix,poe.com,AI
+host-suffix,quora.com,AI
+host-suffix,poecdn.net,AI
 
 # ChatGPT (OpenAI) related domains
-host-suffix,openai.com,proxy
-host-suffix,chat.openai.com,proxy
-host-suffix,challenges.cloudflare.com,proxy
-host-suffix,auth0.openai.com,proxy
-host-suffix,platform.openai.com,proxy
-host-suffix,ai.com,proxy
+host-suffix,openai.com,AI
+host-suffix,chat.openai.com,AI
+host-suffix,challenges.cloudflare.com,AI
+host-suffix,auth0.openai.com,AI
+host-suffix,platform.openai.com,AI
+host-suffix,ai.com,AI
 
 # Bing related domains
-host-suffix,bing.com,proxy
-host-suffix,bing.net,proxy
-host-suffix,bingapis.com,proxy
-host-suffix,microsoftbing.com,proxy
-host-suffix,ms-bing.com,proxy
-host-suffix,bingads.com,proxy
-host-suffix,bingagencyawards.com,proxy
-host-suffix,bingapistatistics.com,proxy
-host-suffix,bingsandbox.com,proxy
-host-suffix,bingvisualsearch.com,proxy
-host-suffix,bingworld.com,proxy
+host-suffix,bing.com,AI
+host-suffix,bing.net,AI
+host-suffix,bingapis.com,AI
+host-suffix,microsoftbing.com,AI
+host-suffix,ms-bing.com,AI
+host-suffix,bingads.com,AI
+host-suffix,bingagencyawards.com,AI
+host-suffix,bingapistatistics.com,AI
+host-suffix,bingsandbox.com,AI
+host-suffix,bingvisualsearch.com,AI
+host-suffix,bingworld.com,AI
 
 # Microsoft domains (potentially related to Bing AI)
-host-suffix,microsoft.com,proxy
-host-suffix,microsoftonline.com,proxy
-host-suffix,msftauth.net,proxy
-host-suffix,msauth.net,proxy
-host-suffix,msecnd.net,proxy
-host-suffix,live.com,proxy
+host-suffix,microsoft.com,AI
+host-suffix,microsoftonline.com,AI
+host-suffix,msftauth.net,AI
+host-suffix,msauth.net,AI
+host-suffix,msecnd.net,AI
+host-suffix,live.com,AI
 
 # Google Gemini related domains
-host-suffix,gemini.google.com,proxy
-host-suffix,ai.google.dev,proxy
-host-suffix,generativelanguage.googleapis.com,proxy
-host-suffix,apis.google.com,proxy
+host-suffix,gemini.google.com,AI
+host-suffix,ai.google.dev,AI
+host-suffix,generativelanguage.googleapis.com,AI
+host-suffix,apis.google.com,AI
