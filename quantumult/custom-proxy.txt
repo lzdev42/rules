@@ -1,3 +1,4 @@
+host-keyword,huggingface,CustomProxy
 host-keyword,vivaldi,CustomProxy
 host-keyword,epicgames,CustomProxy
 host-keyword,linkedin,CustomProxy
