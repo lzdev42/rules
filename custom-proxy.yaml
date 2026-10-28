@@ -13,6 +13,30 @@ payload:
   - DOMAIN-SUFFIX, ai.com
   - DOMAIN-SUFFIX, bing.com
   - DOMAIN-SUFFIX,gstatic.com
-  - DOMAIN-KEYWORD, moomoo
-  - DOMAIN-SUFFIX, bing.com
-  - DOMAIN-SUFFIX, chatgpt.com
+  - DOMAIN-SUFFIX,chatgpt.com
+  # Moomoo & Futu
+  - DOMAIN-KEYWORD,moomoo
+  - DOMAIN-KEYWORD,futusg
+  - DOMAIN-SUFFIX,moomoo.com
+  - DOMAIN-SUFFIX,moomoo.sg
+  - DOMAIN-SUFFIX,moomoo.com.sg
+  - DOMAIN-SUFFIX,moomoobull.com
+  - DOMAIN-SUFFIX,moomooequity.com
+  - DOMAIN-SUFFIX,moomootrustee.com
+  - DOMAIN-SUFFIX,futusg.com
+  - DOMAIN-SUFFIX,futunn.com
+  - DOMAIN-SUFFIX,futu5.com
+  - DOMAIN-SUFFIX,futuapi.com
+  - DOMAIN-SUFFIX,futudata.com
+  - DOMAIN-SUFFIX,futustocks.com
+  - DOMAIN-SUFFIX,fututrade.com
+  - DOMAIN-SUFFIX,futustatic.com
+  - DOMAIN-SUFFIX,futuholdings.com
+  - DOMAIN-SUFFIX,futuniuniu.com
+  - DOMAIN-SUFFIX,futuhk.com
+  - IP-CIDR,101.33.100.129/32
+  - IP-CIDR,101.33.100.246/32
+  - IP-CIDR,43.153.237.57/32
+  - IP-CIDR,101.32.133.130/32
+  - IP-CIDR,35.213.139.179/32
+  - IP-CIDR,43.174.250.223/32
